@@ -1,0 +1,6 @@
+DiscordでのBOTの作成
+PvPのボードゲームで、カード（人狼でいうとこの役職）をほかプレイヤーに見えないようにプレイヤーに渡すBOT
+bumpした2時間後に通知するBOT
+PythonもC#も勉強してないのでどちらでも良いです。
+Webサイトの作成
+HTMLでのBoardgameProject_JPのWebサイトの作成
